@@ -1,4 +1,4 @@
-# งานส่งอาจารย์: ระบบจัดการร้านค้า (Store Management System)
+ระบบจัดการร้านค้า (Store Management System)
 **การเขียนโปรแกรมจัดการฐานข้อมูลด้วย Go และ GORM (MySQL)**
 
 ---
